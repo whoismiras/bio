@@ -9,7 +9,7 @@
 
 
 ### Languages and Tools:
-[<img align="left" width="35px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Java.png"/>][Java]  
+ 
 [<img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flutter-512.png"/>][Flutter]
 [<img align="left" width="25px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png"/>][Linux]
 [<img align="left" width="25px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-256.png"/>][SQL]
