@@ -4,8 +4,8 @@
 
 ## I'm junior cybersecurity, software developer.
 
-- ⚡ I'm currently a Java backend intern
-- 🌱 I'm also learning mobile development
+- ⚡ I'm currently a Flutter Mobile Developer
+- 🌱 I'm also learning algorithms
 
 
 ### Languages and Tools:
