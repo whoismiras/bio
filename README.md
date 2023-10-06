@@ -1,6 +1,6 @@
 # bio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Miras+Ramazanov+++++++;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Miras+Ramazanov+________;)](https://git.io/typing-svg)
 
 ## I'm Flutter Mobile Developer.
 
