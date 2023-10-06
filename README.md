@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Miras+Ramazanov;)](https://git.io/typing-svg)
 
-## I'm junior Flutter Mobile Developer.
+## I'm Flutter Mobile Developer.
 
 - ⚡ I'm a software developer, cybersecurity engineer.
 - 🌱 I'm also learning algorithms
